@@ -5,3 +5,4 @@ def convert_to_lowercase_letters(text):
 # ask for user input
 text = input("Enter an input:")
 # print the result
+print(convert_to_lowercase_letters(text))
