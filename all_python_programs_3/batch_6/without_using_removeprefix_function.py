@@ -11,3 +11,4 @@ def remove_prefix(text, prefix):
 text = input("Enter a text:")
 prefix = input("Enter a prefix:")
 # print the results
+print(remove_prefix(text,prefix))
