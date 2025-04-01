@@ -9,3 +9,4 @@ def to_all_uppercase_letter(text):
 # ask for user input
 text = input("Enter an input:")
 # print the result
+print(to_all_uppercase_letter(text))
