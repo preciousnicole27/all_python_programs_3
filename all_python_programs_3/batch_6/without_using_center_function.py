@@ -1,4 +1,5 @@
 # define the function
+def center_text(text, width):
 # check text length
 # calculate spaces
 # return text
