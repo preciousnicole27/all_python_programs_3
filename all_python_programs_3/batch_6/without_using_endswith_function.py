@@ -7,5 +7,6 @@ def check_suffix(text, suffix):
     return text[-len(suffix):] == suffix
 # ask for user input 
 text = input("Enter an input:")
-suffix = input("Enter a suffix")
+suffix = input("Enter a suffix:")
 # print the results
+print(check_suffix(text,suffix))
