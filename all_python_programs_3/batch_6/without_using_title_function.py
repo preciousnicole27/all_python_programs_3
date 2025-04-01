@@ -1,4 +1,5 @@
 # define the function
+def title_cased_text(text):
 # use split
 # convert the input
 # combine words
