@@ -1,4 +1,5 @@
 # define the function
+def capitalize_text(text):
 # check if string is empty
 # return text
 # convert input
