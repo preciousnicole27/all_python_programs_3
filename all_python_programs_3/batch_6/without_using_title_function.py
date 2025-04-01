@@ -9,3 +9,4 @@ def title_cased_text(text):
 # ask for user input
 text = input("Enter a text:")
 # print the result
+print("Title case:", title_cased_text(text))
