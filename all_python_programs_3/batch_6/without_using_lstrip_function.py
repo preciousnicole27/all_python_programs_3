@@ -1,4 +1,6 @@
 # define the function
+def remove_leading_spaces():
+    
 # use loop
 # init index
 # use slicing
