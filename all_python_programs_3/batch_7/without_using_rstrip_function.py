@@ -9,3 +9,4 @@ def remove_trailing_spaces(text):
 # ask for user input
 text = input("Enter a text:")
 # print the results
+print(f"'{remove_trailing_spaces(text)}'")
