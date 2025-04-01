@@ -1,4 +1,5 @@
 # define the function
+def remove_prefix(text, prefix):
 # init index
 # check if input starts with a prefix
 # use slicing
