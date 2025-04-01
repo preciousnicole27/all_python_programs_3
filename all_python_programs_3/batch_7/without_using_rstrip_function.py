@@ -5,6 +5,7 @@ def remove_trailing_spaces(text):
 # remove the last space
         text = text[:-1]
 # use return
+    return text
 # ask for user input
 text = input("Enter a text:")
 # print the results
