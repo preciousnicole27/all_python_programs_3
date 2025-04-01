@@ -1,6 +1,7 @@
 # define the function
 def title_cased_text(text):
 # use split
+    words = text.split()
 # convert the input
 # combine words
 # ask for user input
