@@ -1,5 +1,5 @@
 # define the function
-def remove_leading_spaces():
+def remove_leading_spaces(text):
 # init index
     index = 0
 # use loop
@@ -10,3 +10,4 @@ def remove_leading_spaces():
 # ask for user input
 text = input("Enter a text:")
 # print the results
+print(remove_leading_spaces(text))
