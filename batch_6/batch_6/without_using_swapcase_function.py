@@ -10,3 +10,4 @@ def swap_case(text):
 # ask for user input
 text = input("Enter a text:")
 # print results
+print("Swapped case:", swap_case(text))
