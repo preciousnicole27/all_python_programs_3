@@ -1,4 +1,5 @@
 # define the function 
+def remove_trailing_spaces(text):
 # use while loop
 # remove the last space
 # use return
