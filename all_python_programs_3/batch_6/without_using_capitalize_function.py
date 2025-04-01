@@ -9,3 +9,4 @@ def capitalize_text(text):
 # ask for user input
 text = input("Enter a text:")
 # print the results
+print("Capitalized:", capitalize_text(text))
