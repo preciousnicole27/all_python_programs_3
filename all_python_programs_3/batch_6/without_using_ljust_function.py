@@ -4,6 +4,7 @@ def justified_text(text,width):
     if len(text) >= width:
         return text
 # return text
+    return text + " " * (width -len(text))
 # add spaces
 # ask for user input
 text = input("Enter a text:")
