@@ -2,6 +2,7 @@
 def remove_suffix(text, suffix):
 # check if text ends with suffix
     if text.endswith(suffix):
+        return text[:-len(suffix)]
 # use return
 # ask for user input
 text = input("Enter a text:")
