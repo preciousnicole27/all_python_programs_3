@@ -5,4 +5,5 @@
 # increment count 
 # return the final count
 # ask for user input
+text = input("Enter a text:")
 # print the result
