@@ -1,4 +1,5 @@
 # define the function
+def to_all_lowercase_letter(text):
 # use loop
 # use return
 # ask for user input
