@@ -8,4 +8,5 @@ def zero_justified_text(text,width):
     return "0" * (width - len(text)) + text
 # ask for user input
 text = input("Enter a text:")
+width = int(input("Enter width:"))
 # print the results
