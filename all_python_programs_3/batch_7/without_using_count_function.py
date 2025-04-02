@@ -9,6 +9,8 @@ def count_text(text, substring):
 # increment count 
             count += 1
 # return the final count
+    return count
 # ask for user input
 text = input("Enter a text:")
+substring = input("Enter a substring:")
 # print the result
