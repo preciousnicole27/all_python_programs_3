@@ -10,3 +10,4 @@ def right_justified_text(text,width):
 text = input("Enter a text:")
 width = int(input("Enter a width:"))
 # print results
+print(f"'{right_justified_text(text,width)}'")
