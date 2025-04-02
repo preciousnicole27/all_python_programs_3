@@ -5,7 +5,7 @@ def to_all_uppercase_letter(text):
         if "a" <= char <= "z":
 # use return
             return False
-        return True
+    return True
 # ask for user input
 text = input("Enter an input:")
 # print the result
