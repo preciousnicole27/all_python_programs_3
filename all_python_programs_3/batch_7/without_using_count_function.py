@@ -1,4 +1,5 @@
 # define function
+def count_text(text, substring):
 # init count
 # use loop
 # check if substring matches string
