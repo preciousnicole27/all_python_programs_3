@@ -8,5 +8,6 @@ def check_prefix(text, prefix):
 # ask for user input
 text = input("Enter a text:")
 prefix = input("Enter a prefix:")
-# print results
+#
+#  print results
 print(check_prefix(text, prefix))
