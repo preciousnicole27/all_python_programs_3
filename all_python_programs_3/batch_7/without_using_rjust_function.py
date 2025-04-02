@@ -1,6 +1,8 @@
 # define the function
 def right_justified_text(text,width):
 # check text length
+    if len(text) >= width:
+        return text
 # return text
 # add spaces
 # ask for user input
