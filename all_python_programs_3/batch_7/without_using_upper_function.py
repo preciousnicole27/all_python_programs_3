@@ -10,6 +10,7 @@ def to_uppercase_letters(text):
         else:
             result.append(letter)
 # use return
+    return "".join(result)
 # ask for user input
 text = input("Enter a text:")
 # print the results
