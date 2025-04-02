@@ -5,6 +5,7 @@ def right_justified_text(text,width):
         return text
 # return text
 # add spaces
+    return " " * (width - len(text)) + text
 # ask for user input
 text = input("Enter a text:")
 # print results
