@@ -13,5 +13,6 @@ def to_uppercase_letters(text):
     return "".join(result)
 # ask for user input
 text = input("Enter a text:")
+
 # print the results
 print(to_uppercase_letters(text))
