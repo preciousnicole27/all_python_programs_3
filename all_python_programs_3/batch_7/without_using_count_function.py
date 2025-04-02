@@ -14,3 +14,4 @@ def count_text(text, substring):
 text = input("Enter a text:")
 substring = input("Enter a substring:")
 # print the result
+print(count_text(text,substring))
