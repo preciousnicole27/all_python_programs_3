@@ -1,7 +1,7 @@
 # define function
 def to_uppercase_letters(text):
 # init an empty string
-    result = ""
+    result = []
 # use loop
 # check if letter is lowercase
     for letter in text:
@@ -14,3 +14,4 @@ def to_uppercase_letters(text):
 # ask for user input
 text = input("Enter a text:")
 # print the results
+print(to_uppercase_letters(text))
