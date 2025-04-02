@@ -10,3 +10,4 @@ def zero_justified_text(text,width):
 text = input("Enter a text:")
 width = int(input("Enter width:"))
 # print the results
+print(f"'{zero_justified_text(text, width)}'")
