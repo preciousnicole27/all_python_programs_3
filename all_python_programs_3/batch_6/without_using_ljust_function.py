@@ -10,4 +10,4 @@ def justified_text(text,width):
 text = input("Enter a text:")
 width = int(input("Enter a width:"))
 # print results
-print(justified_text(text, width))
+print(f"'{justified_text(text, width)}'")
