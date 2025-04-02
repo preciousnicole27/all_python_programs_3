@@ -5,8 +5,8 @@ def remove_suffix(text, suffix):
         return text[:-len(suffix)]
 # use return
     return text
-
 # ask for user input
 text = input("Enter a text:")
-suffix = ("Enter a suffix:")
+suffix = input("Enter a suffix:")
 # print the results
+print("Removed suffix:",remove_suffix(text,suffix))
