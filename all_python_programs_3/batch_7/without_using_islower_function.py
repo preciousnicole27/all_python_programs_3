@@ -4,6 +4,8 @@ def to_all_lowercase_letter(text):
     for character in text:
         if "A" <= char <= "Z":
 # use return
+            return False
+    return True
 # ask for user input
 text = input("Enter an input:")
 # print the result
