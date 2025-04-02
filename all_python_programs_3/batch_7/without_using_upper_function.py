@@ -1,6 +1,7 @@
 # define function
 def to_uppercase_letters(text):
 # init an empty string
+    result = ""
 # use loop
 # check if letter is lowercase
     for letter in text:
