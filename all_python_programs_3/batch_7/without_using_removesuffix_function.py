@@ -1,4 +1,5 @@
 # define function
+def remove_suffix(text, suffix):
 # check if text ends with suffix
 # use return
 # ask for user input
